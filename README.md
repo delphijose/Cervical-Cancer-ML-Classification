@@ -1,4 +1,4 @@
-# **Cervical Cancer Prediction Project**
+# **Cervical Cancer Prediction Utilizing Machine Learning Techniques**
 
 This project focuses on building a machine learning classification model to predict the likelihood of cervical cancer risk using patient health history data. The ultimate goal is to aid in early detection and better patient care.
 
